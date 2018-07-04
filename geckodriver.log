@@ -1,0 +1,859 @@
+1530606947689	geckodriver	INFO	geckodriver 0.18.0
+1530606947764	geckodriver	INFO	Listening on 127.0.0.1:35895
+1530606949120	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530606960178	Marionette	INFO	Listening on port 42043
+1530606960323	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530607055432	geckodriver	INFO	geckodriver 0.18.0
+1530607055435	geckodriver	INFO	Listening on 127.0.0.1:58279
+1530607056569	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530607060420	Marionette	INFO	Listening on port 41393
+1530607060487	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530607270104	geckodriver	INFO	geckodriver 0.18.0
+1530607270108	geckodriver	INFO	Listening on 127.0.0.1:37043
+1530607271220	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530607274596	Marionette	INFO	Listening on port 45291
+1530607274640	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530607285171	geckodriver	INFO	geckodriver 0.18.0
+1530607285174	geckodriver	INFO	Listening on 127.0.0.1:45419
+1530607286306	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530607290016	Marionette	INFO	Listening on port 33323
+1530607290027	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530607607035	geckodriver	INFO	geckodriver 0.18.0
+1530607607038	geckodriver	INFO	Listening on 127.0.0.1:55131
+1530607608151	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530607611519	Marionette	INFO	Listening on port 34855
+1530607611578	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.cfilt.iitb.ac.in/indowordnet/newjavascript.js, line 14: TypeError: arg1 is undefined
+1530607636561	geckodriver	INFO	geckodriver 0.18.0
+1530607636565	geckodriver	INFO	Listening on 127.0.0.1:56057
+1530607637707	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530607641015	Marionette	INFO	Listening on port 35877
+1530607641023	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.cfilt.iitb.ac.in/indowordnet/newjavascript.js, line 14: TypeError: arg1 is undefined
+1530607714611	geckodriver	INFO	geckodriver 0.18.0
+1530607714614	geckodriver	INFO	Listening on 127.0.0.1:43711
+1530607715721	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530607719106	Marionette	INFO	Listening on port 45457
+1530607719135	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.cfilt.iitb.ac.in/indowordnet/newjavascript.js, line 14: TypeError: arg1 is undefined
+1530607737068	geckodriver	INFO	geckodriver 0.18.0
+1530607737071	geckodriver	INFO	Listening on 127.0.0.1:53149
+1530607738197	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530607741874	Marionette	INFO	Listening on port 43955
+1530607741976	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530607905443	geckodriver	INFO	geckodriver 0.18.0
+1530607905446	geckodriver	INFO	Listening on 127.0.0.1:52371
+1530607906587	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530607910213	Marionette	INFO	Listening on port 37107
+1530607910303	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.cfilt.iitb.ac.in/indowordnet/newjavascript.js, line 14: TypeError: arg1 is undefined
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1530608351559	geckodriver	INFO	geckodriver 0.18.0
+1530608351563	geckodriver	INFO	Listening on 127.0.0.1:48143
+1530608352700	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530608356076	Marionette	INFO	Listening on port 33911
+1530608356132	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.cfilt.iitb.ac.in/indowordnet/newjavascript.js, line 14: TypeError: arg1 is undefined
+1530608418053	geckodriver	INFO	geckodriver 0.18.0
+1530608418056	geckodriver	INFO	Listening on 127.0.0.1:58149
+1530608419173	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530608422648	Marionette	INFO	Listening on port 33165
+1530608422696	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.cfilt.iitb.ac.in/indowordnet/newjavascript.js, line 14: TypeError: arg1 is undefined
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1530608460819	geckodriver	INFO	geckodriver 0.18.0
+1530608460822	geckodriver	INFO	Listening on 127.0.0.1:59245
+1530608461935	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530608465388	Marionette	INFO	Listening on port 38079
+1530608465451	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.cfilt.iitb.ac.in/indowordnet/newjavascript.js, line 14: TypeError: arg1 is undefined
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1530608519328	geckodriver	INFO	geckodriver 0.18.0
+1530608519331	geckodriver	INFO	Listening on 127.0.0.1:32971
+1530608520472	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530608523849	Marionette	INFO	Listening on port 33479
+1530608523915	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.cfilt.iitb.ac.in/indowordnet/newjavascript.js, line 14: TypeError: arg1 is undefined
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1530608552315	geckodriver	INFO	geckodriver 0.18.0
+1530608552319	geckodriver	INFO	Listening on 127.0.0.1:41417
+1530608553453	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530608556829	Marionette	INFO	Listening on port 36151
+1530608556870	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530608755420	geckodriver	INFO	geckodriver 0.18.0
+1530608755425	geckodriver	INFO	Listening on 127.0.0.1:35979
+1530608756555	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530608760292	Marionette	INFO	Listening on port 36485
+1530608760371	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530609078117	geckodriver	INFO	geckodriver 0.18.0
+1530609078120	geckodriver	INFO	Listening on 127.0.0.1:48477
+1530609079255	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530609082878	Marionette	INFO	Listening on port 38015
+1530609082971	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.cfilt.iitb.ac.in/indowordnet/newjavascript.js, line 14: TypeError: arg1 is undefined
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1530609125093	geckodriver	INFO	geckodriver 0.18.0
+1530609125100	geckodriver	INFO	Listening on 127.0.0.1:49043
+1530609126214	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530609129716	Marionette	INFO	Listening on port 41581
+1530609129745	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.cfilt.iitb.ac.in/indowordnet/newjavascript.js, line 14: TypeError: arg1 is undefined
+1530609185025	geckodriver	INFO	geckodriver 0.18.0
+1530609185028	geckodriver	INFO	Listening on 127.0.0.1:56343
+1530609186139	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530609189441	Marionette	INFO	Listening on port 39851
+1530609189457	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.cfilt.iitb.ac.in/indowordnet/newjavascript.js, line 14: TypeError: arg1 is undefined
+1530609266347	geckodriver	INFO	geckodriver 0.18.0
+1530609266350	geckodriver	INFO	Listening on 127.0.0.1:55849
+1530609267500	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530609270838	Marionette	INFO	Listening on port 36867
+1530609270914	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.cfilt.iitb.ac.in/indowordnet/newjavascript.js, line 14: TypeError: arg1 is undefined
+1530616631879	geckodriver	INFO	geckodriver 0.18.0
+1530616631882	geckodriver	INFO	Listening on 127.0.0.1:37629
+1530616633027	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530616636621	Marionette	INFO	Listening on port 38533
+1530616636645	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530616705455	geckodriver	INFO	geckodriver 0.18.0
+1530616705459	geckodriver	INFO	Listening on 127.0.0.1:36271
+1530616706604	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530616710197	Marionette	INFO	Listening on port 35761
+1530616710221	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530616775339	geckodriver	INFO	geckodriver 0.18.0
+1530616775343	geckodriver	INFO	Listening on 127.0.0.1:43073
+1530616776478	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530616779880	Marionette	INFO	Listening on port 41959
+1530616779906	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.cfilt.iitb.ac.in/indowordnet/newjavascript.js, line 14: TypeError: arg1 is undefined
+1530617430608	geckodriver	INFO	geckodriver 0.18.0
+1530617430611	geckodriver	INFO	Listening on 127.0.0.1:55813
+1530617431747	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530617435254	Marionette	INFO	Listening on port 42207
+1530617435263	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.cfilt.iitb.ac.in/indowordnet/newjavascript.js, line 14: TypeError: arg1 is undefined
+1530617458950	geckodriver	INFO	geckodriver 0.18.0
+1530617458953	geckodriver	INFO	Listening on 127.0.0.1:45511
+1530617460079	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530617463480	Marionette	INFO	Listening on port 38639
+1530617463508	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.cfilt.iitb.ac.in/indowordnet/newjavascript.js, line 14: TypeError: arg1 is undefined
+1530617493220	geckodriver	INFO	geckodriver 0.18.0
+1530617493224	geckodriver	INFO	Listening on 127.0.0.1:46741
+1530617494354	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530617497793	Marionette	INFO	Listening on port 34425
+1530617497875	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530617511211	geckodriver	INFO	geckodriver 0.18.0
+1530617511214	geckodriver	INFO	Listening on 127.0.0.1:37631
+1530617512335	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530617515624	Marionette	INFO	Listening on port 37099
+1530617515652	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530617673928	geckodriver	INFO	geckodriver 0.18.0
+1530617673931	geckodriver	INFO	Listening on 127.0.0.1:33899
+1530617675065	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530617678509	Marionette	INFO	Listening on port 45555
+1530617678581	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.cfilt.iitb.ac.in/indowordnet/newjavascript.js, line 14: TypeError: arg1 is undefined
+[Child 14136, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-m9FtQy/firefox-60.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1530617704558	geckodriver	INFO	geckodriver 0.18.0
+1530617704561	geckodriver	INFO	Listening on 127.0.0.1:44149
+1530617705699	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530617709173	Marionette	INFO	Listening on port 32875
+1530617709214	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.cfilt.iitb.ac.in/indowordnet/newjavascript.js, line 14: TypeError: arg1 is undefined
+1530617720851	geckodriver	INFO	geckodriver 0.18.0
+1530617720855	geckodriver	INFO	Listening on 127.0.0.1:45499
+1530617721982	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530617725444	Marionette	INFO	Listening on port 40549
+1530617725498	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.cfilt.iitb.ac.in/indowordnet/newjavascript.js, line 14: TypeError: arg1 is undefined
+1530617739734	geckodriver	INFO	geckodriver 0.18.0
+1530617739737	geckodriver	INFO	Listening on 127.0.0.1:41861
+1530617740874	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530617744382	Marionette	INFO	Listening on port 42951
+1530617744388	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.cfilt.iitb.ac.in/indowordnet/newjavascript.js, line 14: TypeError: arg1 is undefined
+1530617965886	geckodriver	INFO	geckodriver 0.18.0
+1530617965890	geckodriver	INFO	Listening on 127.0.0.1:39373
+1530617967028	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530617970647	Marionette	INFO	Listening on port 34539
+1530617970742	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530618008185	geckodriver	INFO	geckodriver 0.18.0
+1530618008189	geckodriver	INFO	Listening on 127.0.0.1:60137
+1530618009325	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530618012622	Marionette	INFO	Listening on port 42209
+1530618012659	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.cfilt.iitb.ac.in/indowordnet/newjavascript.js, line 14: TypeError: arg1 is undefined
+1530618034244	geckodriver	INFO	geckodriver 0.18.0
+1530618034247	geckodriver	INFO	Listening on 127.0.0.1:47313
+1530618035366	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530618038601	Marionette	INFO	Listening on port 42443
+1530618038679	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.cfilt.iitb.ac.in/indowordnet/newjavascript.js, line 14: TypeError: arg1 is undefined
+[Child 15178, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-m9FtQy/firefox-60.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1530618153084	geckodriver	INFO	geckodriver 0.18.0
+1530618153087	geckodriver	INFO	Listening on 127.0.0.1:43217
+1530618154222	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530618157420	Marionette	INFO	Listening on port 33969
+1530618157439	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530618185140	geckodriver	INFO	geckodriver 0.18.0
+1530618185144	geckodriver	INFO	Listening on 127.0.0.1:35239
+1530618186278	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530618189537	Marionette	INFO	Listening on port 33749
+1530618189592	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.cfilt.iitb.ac.in/indowordnet/newjavascript.js, line 14: TypeError: arg1 is undefined
+1530618740738	geckodriver	INFO	geckodriver 0.18.0
+1530618740741	geckodriver	INFO	Listening on 127.0.0.1:37829
+1530618741881	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530618745368	Marionette	INFO	Listening on port 38937
+1530618745403	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.cfilt.iitb.ac.in/indowordnet/newjavascript.js, line 14: TypeError: arg1 is undefined
+1530618805558	geckodriver	INFO	geckodriver 0.18.0
+1530618805562	geckodriver	INFO	Listening on 127.0.0.1:51931
+1530618806684	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530618810097	Marionette	INFO	Listening on port 43283
+1530618810198	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530618825921	geckodriver	INFO	geckodriver 0.18.0
+1530618825924	geckodriver	INFO	Listening on 127.0.0.1:49755
+1530618827062	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530618830544	Marionette	INFO	Listening on port 44931
+1530618830586	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.cfilt.iitb.ac.in/indowordnet/newjavascript.js, line 14: TypeError: arg1 is undefined
+1530618943179	geckodriver	INFO	geckodriver 0.18.0
+1530618943182	geckodriver	INFO	Listening on 127.0.0.1:47325
+1530618944321	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530618947686	Marionette	INFO	Listening on port 46825
+1530618947740	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.cfilt.iitb.ac.in/indowordnet/newjavascript.js, line 14: TypeError: arg1 is undefined
+1530618987145	geckodriver	INFO	geckodriver 0.18.0
+1530618987149	geckodriver	INFO	Listening on 127.0.0.1:50787
+1530618988284	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530618991761	Marionette	INFO	Listening on port 41945
+1530618991798	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530619114593	geckodriver	INFO	geckodriver 0.18.0
+1530619114596	geckodriver	INFO	Listening on 127.0.0.1:49667
+1530619115738	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530619119060	Marionette	INFO	Listening on port 36403
+1530619119152	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530619146069	geckodriver	INFO	geckodriver 0.18.0
+1530619146073	geckodriver	INFO	Listening on 127.0.0.1:35897
+1530619147216	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530619150702	Marionette	INFO	Listening on port 38821
+1530619150731	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 16859, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-m9FtQy/firefox-60.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1530619165461	geckodriver	INFO	geckodriver 0.18.0
+1530619165464	geckodriver	INFO	Listening on 127.0.0.1:35595
+1530619166601	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530619170055	Marionette	INFO	Listening on port 37801
+1530619170117	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.cfilt.iitb.ac.in/indowordnet/newjavascript.js, line 14: TypeError: arg1 is undefined
+[Child 16982, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-m9FtQy/firefox-60.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1530619214747	geckodriver	INFO	geckodriver 0.18.0
+1530619214750	geckodriver	INFO	Listening on 127.0.0.1:44229
+1530619215885	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530619219177	Marionette	INFO	Listening on port 38273
+1530619219206	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.cfilt.iitb.ac.in/indowordnet/newjavascript.js, line 14: TypeError: arg1 is undefined
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1530619237209	geckodriver	INFO	geckodriver 0.18.0
+1530619237212	geckodriver	INFO	Listening on 127.0.0.1:39373
+1530619238348	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530619241815	Marionette	INFO	Listening on port 32791
+1530619241871	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.cfilt.iitb.ac.in/indowordnet/newjavascript.js, line 14: TypeError: arg1 is undefined
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1530619334402	geckodriver	INFO	geckodriver 0.18.0
+1530619334405	geckodriver	INFO	Listening on 127.0.0.1:49963
+1530619335544	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530619338800	Marionette	INFO	Listening on port 43337
+1530619338858	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530619375011	geckodriver	INFO	geckodriver 0.18.0
+1530619375014	geckodriver	INFO	Listening on 127.0.0.1:41003
+1530619376142	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530619379467	Marionette	INFO	Listening on port 45179
+1530619379556	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530619421785	geckodriver	INFO	geckodriver 0.18.0
+1530619421789	geckodriver	INFO	Listening on 127.0.0.1:35009
+1530619422896	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530619426322	Marionette	INFO	Listening on port 34917
+1530619426410	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530619439534	geckodriver	INFO	geckodriver 0.18.0
+1530619439537	geckodriver	INFO	Listening on 127.0.0.1:34051
+1530619440683	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530619444123	Marionette	INFO	Listening on port 44671
+1530619444196	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530619542923	geckodriver	INFO	geckodriver 0.18.0
+1530619542927	geckodriver	INFO	Listening on 127.0.0.1:35691
+1530619544039	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530619547580	Marionette	INFO	Listening on port 42269
+1530619547655	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530619578061	geckodriver	INFO	geckodriver 0.18.0
+1530619578064	geckodriver	INFO	Listening on 127.0.0.1:44789
+1530619579194	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530619582719	Marionette	INFO	Listening on port 37545
+1530619582807	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530619635817	geckodriver	INFO	geckodriver 0.18.0
+1530619635820	geckodriver	INFO	Listening on 127.0.0.1:36257
+1530619636958	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530619640264	Marionette	INFO	Listening on port 41745
+1530619640280	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530619682996	geckodriver	INFO	geckodriver 0.18.0
+1530619682999	geckodriver	INFO	Listening on 127.0.0.1:48781
+1530619684151	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530619687293	Marionette	INFO	Listening on port 33181
+1530619687369	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530619757698	geckodriver	INFO	geckodriver 0.18.0
+1530619757701	geckodriver	INFO	Listening on 127.0.0.1:50563
+1530619758839	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530619762030	Marionette	INFO	Listening on port 42877
+1530619762059	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530619811737	geckodriver	INFO	geckodriver 0.18.0
+1530619811740	geckodriver	INFO	Listening on 127.0.0.1:59673
+1530619812907	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530619817251	Marionette	INFO	Listening on port 46449
+1530619817323	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530684236787	geckodriver	INFO	geckodriver 0.18.0
+1530684236824	geckodriver	INFO	Listening on 127.0.0.1:50803
+1530684238071	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530684242904	Marionette	INFO	Listening on port 42193
+1530684243099	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530684985703	geckodriver	INFO	geckodriver 0.18.0
+1530684985707	geckodriver	INFO	Listening on 127.0.0.1:59777
+1530684986852	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530684990631	Marionette	INFO	Listening on port 34159
+1530684990676	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.cfilt.iitb.ac.in/indowordnet/newjavascript.js, line 14: TypeError: arg1 is undefined
+1530686446057	geckodriver	INFO	geckodriver 0.18.0
+1530686446061	geckodriver	INFO	Listening on 127.0.0.1:53217
+1530686447197	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530686450794	Marionette	INFO	Listening on port 44501
+1530686450825	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530686490146	geckodriver	INFO	geckodriver 0.18.0
+1530686490149	geckodriver	INFO	Listening on 127.0.0.1:44427
+1530686491291	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530686494958	Marionette	INFO	Listening on port 42089
+1530686495008	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.cfilt.iitb.ac.in/indowordnet/newjavascript.js, line 14: TypeError: arg1 is undefined
+1530686528344	geckodriver	INFO	geckodriver 0.18.0
+1530686528347	geckodriver	INFO	Listening on 127.0.0.1:38763
+1530686529483	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530686532801	Marionette	INFO	Listening on port 37047
+1530686532899	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530686659370	geckodriver	INFO	geckodriver 0.18.0
+1530686659373	geckodriver	INFO	Listening on 127.0.0.1:59933
+1530686660511	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530686663810	Marionette	INFO	Listening on port 45463
+1530686663835	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530687131880	geckodriver	INFO	geckodriver 0.18.0
+1530687131884	geckodriver	INFO	Listening on 127.0.0.1:46123
+1530687133019	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530687136512	Marionette	INFO	Listening on port 45069
+1530687136537	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530687270880	geckodriver	INFO	geckodriver 0.18.0
+1530687270883	geckodriver	INFO	Listening on 127.0.0.1:35475
+1530687272016	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530687275497	Marionette	INFO	Listening on port 41489
+1530687275531	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530692904580	geckodriver	INFO	geckodriver 0.18.0
+1530692904583	geckodriver	INFO	Listening on 127.0.0.1:43703
+1530692905713	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530692909150	Marionette	INFO	Listening on port 33133
+1530692909229	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530692914153	geckodriver	INFO	geckodriver 0.18.0
+1530692914158	geckodriver	INFO	Listening on 127.0.0.1:55943
+1530692915310	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530692918751	Marionette	INFO	Listening on port 32865
+1530692918825	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530692958606	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: timeout
+1530692979773	geckodriver	INFO	geckodriver 0.18.0
+1530692979777	geckodriver	INFO	Listening on 127.0.0.1:58105
+1530692980912	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530692984569	Marionette	INFO	Listening on port 32829
+1530692984630	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530692998647	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1530693281768	geckodriver	INFO	geckodriver 0.18.0
+1530693281771	geckodriver	INFO	Listening on 127.0.0.1:49495
+1530693282904	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530693286255	Marionette	INFO	Listening on port 42067
+1530693286318	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.cfilt.iitb.ac.in/indowordnet/first?langno=9&queryword=%E0%B4%AC%E0%B5%8D%E0%B4%B0%E0%B4%B9%E0%B5%8D%E0%B4%AE%E0%B4%9A%E0%B4%B0%E0%B5%8D%E0%B4%AF%E0%B4%82, line 3645: TypeError: google.elements is undefined
+1530693289059	geckodriver	INFO	geckodriver 0.18.0
+1530693289070	geckodriver	INFO	Listening on 127.0.0.1:54421
+1530693290201	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530693293461	Marionette	INFO	Listening on port 40797
+1530693293521	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.cfilt.iitb.ac.in/indowordnet/first?langno=9&queryword=%E0%B4%B5%E0%B4%BF%E0%B4%B5%E0%B4%BE%E0%B4%B9%E0%B4%82, line 3823: TypeError: google.elements is undefined
+1530693297905	geckodriver	INFO	geckodriver 0.18.0
+1530693297910	geckodriver	INFO	Listening on 127.0.0.1:60447
+1530693299055	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530693302516	Marionette	INFO	Listening on port 43269
+1530693302574	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.cfilt.iitb.ac.in/indowordnet/first?langno=9&queryword=%E0%B4%95%E0%B4%B4%E0%B4%BF%E0%B4%95%E0%B5%8D%E0%B4%95%E0%B4%BF%E0%B4%B2%E0%B5%8D%E0%B4%B2%E0%B5%86%E0%B4%A8%E0%B5%8D%E0%B4%A8%E0%B5%8D%E2%80%8C, line 3557: TypeError: google.elements is undefined
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1530693721720	geckodriver	INFO	geckodriver 0.18.0
+1530693721723	geckodriver	INFO	Listening on 127.0.0.1:59257
+1530693722834	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530693726252	Marionette	INFO	Listening on port 33947
+1530693726370	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.cfilt.iitb.ac.in/indowordnet/newjavascript.js, line 14: TypeError: arg1 is undefined
+1530693733167	geckodriver	INFO	geckodriver 0.18.0
+1530693733172	geckodriver	INFO	Listening on 127.0.0.1:58285
+1530693734308	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530693737672	Marionette	INFO	Listening on port 36413
+1530693737723	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530693740133	geckodriver	INFO	geckodriver 0.18.0
+1530693740138	geckodriver	INFO	Listening on 127.0.0.1:51479
+1530693741245	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530693744605	Marionette	INFO	Listening on port 43731
+1530693744659	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1530693941026	geckodriver	INFO	geckodriver 0.18.0
+1530693941029	geckodriver	INFO	Listening on 127.0.0.1:33627
+1530693942151	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530693945574	Marionette	INFO	Listening on port 46857
+1530693945672	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.cfilt.iitb.ac.in/indowordnet/newjavascript.js, line 14: TypeError: arg1 is undefined
+1530693948608	geckodriver	INFO	geckodriver 0.18.0
+1530693948613	geckodriver	INFO	Listening on 127.0.0.1:52649
+1530693949767	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530693953209	Marionette	INFO	Listening on port 40287
+1530693953281	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.cfilt.iitb.ac.in/indowordnet/newjavascript.js, line 14: TypeError: arg1 is undefined
+[Child 10212, Chrome_ChildThread] WARNING: pipe error (20): Connection reset by peer: file /build/firefox-m9FtQy/firefox-60.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1530693959409	geckodriver	INFO	geckodriver 0.18.0
+1530693959414	geckodriver	INFO	Listening on 127.0.0.1:36709
+1530693960554	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530693964095	Marionette	INFO	Listening on port 35875
+1530693964169	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.cfilt.iitb.ac.in/indowordnet/js/bootstrap.js, line 7: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: http://www.cfilt.iitb.ac.in/indowordnet/js/bootstrap-select.js, line 1029: ReferenceError: jQuery is not defined
+JavaScript error: http://www.cfilt.iitb.ac.in/indowordnet/js/facebox.js, line 309: ReferenceError: jQuery is not defined
+JavaScript error: http://www.cfilt.iitb.ac.in/indowordnet/first?langno=9&queryword=%E0%B4%95%E0%B4%B4%E0%B4%BF%E0%B4%95%E0%B5%8D%E0%B4%95%E0%B4%BF%E0%B4%B2%E0%B5%8D%E0%B4%B2%E0%B5%86%E0%B4%A8%E0%B5%8D%E0%B4%A8%E0%B5%8D%E2%80%8C, line 40: ReferenceError: $ is not defined
+JavaScript error: http://www.cfilt.iitb.ac.in/indowordnet/first?langno=9&queryword=%E0%B4%95%E0%B4%B4%E0%B4%BF%E0%B4%95%E0%B5%8D%E0%B4%95%E0%B4%BF%E0%B4%B2%E0%B5%8D%E0%B4%B2%E0%B5%86%E0%B4%A8%E0%B5%8D%E0%B4%A8%E0%B5%8D%E2%80%8C, line 221: ReferenceError: $ is not defined
+JavaScript error: http://www.cfilt.iitb.ac.in/indowordnet/first?langno=9&queryword=%E0%B4%95%E0%B4%B4%E0%B4%BF%E0%B4%95%E0%B5%8D%E0%B4%95%E0%B4%BF%E0%B4%B2%E0%B5%8D%E0%B4%B2%E0%B5%86%E0%B4%A8%E0%B5%8D%E0%B4%A8%E0%B5%8D%E2%80%8C, line 397: ReferenceError: $ is not defined
+1530694003981	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: timeout
+JavaScript error: http://www.cfilt.iitb.ac.in/indowordnet/first?langno=9&queryword=%E0%B4%95%E0%B4%B4%E0%B4%BF%E0%B4%95%E0%B5%8D%E0%B4%95%E0%B4%BF%E0%B4%B2%E0%B5%8D%E0%B4%B2%E0%B5%86%E0%B4%A8%E0%B5%8D%E0%B4%A8%E0%B5%8D%E2%80%8C, line 3557: TypeError: google.elements is undefined
+1530694030087	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1530694112467	geckodriver	INFO	geckodriver 0.18.0
+1530694112470	geckodriver	INFO	Listening on 127.0.0.1:47413
+1530694113615	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530694117097	Marionette	INFO	Listening on port 44553
+1530694117142	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 10656, Chrome_ChildThread] WARNING: pipe error (20): Connection reset by peer: file /build/firefox-m9FtQy/firefox-60.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1530694132906	geckodriver	INFO	geckodriver 0.18.0
+1530694132911	geckodriver	INFO	Listening on 127.0.0.1:60867
+1530694134057	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530694137742	Marionette	INFO	Listening on port 44377
+1530694137774	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530694138432	geckodriver	INFO	geckodriver 0.18.0
+1530694138438	geckodriver	INFO	Listening on 127.0.0.1:60847
+1530694139571	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530694142979	Marionette	INFO	Listening on port 42169
+1530694142991	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530694143503	geckodriver	INFO	geckodriver 0.18.0
+1530694143507	geckodriver	INFO	Listening on 127.0.0.1:49577
+1530694144646	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530694148037	Marionette	INFO	Listening on port 37135
+1530694148070	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530694148671	geckodriver	INFO	geckodriver 0.18.0
+1530694148678	geckodriver	INFO	Listening on 127.0.0.1:40559
+1530694149816	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530694190895	geckodriver	INFO	geckodriver 0.18.0
+1530694190898	geckodriver	INFO	Listening on 127.0.0.1:57607
+1530694192033	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530694195600	Marionette	INFO	Listening on port 43939
+1530694195657	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.cfilt.iitb.ac.in/indowordnet/newjavascript.js, line 14: TypeError: arg1 is undefined
+1530694200897	geckodriver	INFO	geckodriver 0.18.0
+1530694200901	geckodriver	INFO	Listening on 127.0.0.1:33717
+1530694202034	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530694205344	Marionette	INFO	Listening on port 35567
+1530694205361	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530694212898	geckodriver	INFO	geckodriver 0.18.0
+1530694212903	geckodriver	INFO	Listening on 127.0.0.1:55371
+1530694214038	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530694217230	Marionette	INFO	Listening on port 41599
+1530694217260	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530694224475	geckodriver	INFO	geckodriver 0.18.0
+1530694224480	geckodriver	INFO	Listening on 127.0.0.1:56363
+1530694225614	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530694229008	Marionette	INFO	Listening on port 33311
+1530694229035	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530694235555	geckodriver	INFO	geckodriver 0.18.0
+1530694235560	geckodriver	INFO	Listening on 127.0.0.1:59423
+1530694236717	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530694240127	Marionette	INFO	Listening on port 33091
+1530694240138	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530694244471	geckodriver	INFO	geckodriver 0.18.0
+1530694244476	geckodriver	INFO	Listening on 127.0.0.1:37369
+1530694245617	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530694249083	Marionette	INFO	Listening on port 41447
+1530694249132	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530694251670	geckodriver	INFO	geckodriver 0.18.0
+1530694251675	geckodriver	INFO	Listening on 127.0.0.1:37791
+1530694252809	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530694256132	Marionette	INFO	Listening on port 42439
+1530694256231	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.cfilt.iitb.ac.in/indowordnet/newjavascript.js, line 14: TypeError: arg1 is undefined
+1530694260757	geckodriver	INFO	geckodriver 0.18.0
+1530694260762	geckodriver	INFO	Listening on 127.0.0.1:56949
+1530694261890	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530694265399	Marionette	INFO	Listening on port 39517
+1530694265413	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530694268288	geckodriver	INFO	geckodriver 0.18.0
+1530694268292	geckodriver	INFO	Listening on 127.0.0.1:52827
+1530694269407	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530694272768	Marionette	INFO	Listening on port 44089
+1530694272824	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530694277228	geckodriver	INFO	geckodriver 0.18.0
+1530694277233	geckodriver	INFO	Listening on 127.0.0.1:37923
+1530694278382	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530694281833	Marionette	INFO	Listening on port 35039
+1530694281897	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530694285187	geckodriver	INFO	geckodriver 0.18.0
+1530694285194	geckodriver	INFO	Listening on 127.0.0.1:41143
+1530694286325	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530694289573	Marionette	INFO	Listening on port 36873
+1530694289638	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530694293531	geckodriver	INFO	geckodriver 0.18.0
+1530694293536	geckodriver	INFO	Listening on 127.0.0.1:34033
+1530694294674	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530694298071	Marionette	INFO	Listening on port 46193
+1530694298091	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530694301826	geckodriver	INFO	geckodriver 0.18.0
+1530694301831	geckodriver	INFO	Listening on 127.0.0.1:39065
+1530694302964	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530694306522	Marionette	INFO	Listening on port 34019
+1530694306579	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530694309990	geckodriver	INFO	geckodriver 0.18.0
+1530694309995	geckodriver	INFO	Listening on 127.0.0.1:35043
+1530694311127	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530694314554	Marionette	INFO	Listening on port 39735
+1530694314641	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530694317520	geckodriver	INFO	geckodriver 0.18.0
+1530694317525	geckodriver	INFO	Listening on 127.0.0.1:48347
+1530694318664	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530694322075	Marionette	INFO	Listening on port 42661
+1530694322177	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530694327220	geckodriver	INFO	geckodriver 0.18.0
+1530694327225	geckodriver	INFO	Listening on 127.0.0.1:39683
+1530694328355	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530694331704	Marionette	INFO	Listening on port 36987
+1530694331771	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530694337712	geckodriver	INFO	geckodriver 0.18.0
+1530694337717	geckodriver	INFO	Listening on 127.0.0.1:56567
+1530694338862	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530694342447	Marionette	INFO	Listening on port 33735
+1530694342490	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530694347676	geckodriver	INFO	geckodriver 0.18.0
+1530694347681	geckodriver	INFO	Listening on 127.0.0.1:52141
+1530694348817	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530694352053	Marionette	INFO	Listening on port 42509
+1530694352130	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530694358281	geckodriver	INFO	geckodriver 0.18.0
+1530694358286	geckodriver	INFO	Listening on 127.0.0.1:56133
+1530694359418	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530694362754	Marionette	INFO	Listening on port 37773
+1530694362831	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.cfilt.iitb.ac.in/indowordnet/newjavascript.js, line 14: TypeError: arg1 is undefined
+1530694379787	geckodriver	INFO	geckodriver 0.18.0
+1530694379791	geckodriver	INFO	Listening on 127.0.0.1:52457
+1530694380917	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530694384217	Marionette	INFO	Listening on port 46521
+1530694384241	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530694389481	geckodriver	INFO	geckodriver 0.18.0
+1530694389486	geckodriver	INFO	Listening on 127.0.0.1:38713
+1530694390592	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530694928659	geckodriver	INFO	geckodriver 0.18.0
+1530694928663	geckodriver	INFO	Listening on 127.0.0.1:51679
+1530694929797	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530694933381	Marionette	INFO	Listening on port 40123
+1530694933420	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530694935783	geckodriver	INFO	geckodriver 0.18.0
+1530694935788	geckodriver	INFO	Listening on 127.0.0.1:40221
+1530694936900	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530694940261	Marionette	INFO	Listening on port 33055
+1530694940325	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.cfilt.iitb.ac.in/indowordnet/newjavascript.js, line 14: TypeError: arg1 is undefined
+1530694942961	geckodriver	INFO	geckodriver 0.18.0
+1530694942965	geckodriver	INFO	Listening on 127.0.0.1:53003
+1530694944095	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530694947447	Marionette	INFO	Listening on port 42337
+1530694947512	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530694952548	geckodriver	INFO	geckodriver 0.18.0
+1530694952554	geckodriver	INFO	Listening on 127.0.0.1:35107
+1530694953690	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530694956960	Marionette	INFO	Listening on port 45409
+1530694957004	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530694959798	geckodriver	INFO	geckodriver 0.18.0
+1530694959803	geckodriver	INFO	Listening on 127.0.0.1:59577
+1530694960945	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530694964195	Marionette	INFO	Listening on port 44571
+1530694964259	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530694966625	geckodriver	INFO	geckodriver 0.18.0
+1530694966630	geckodriver	INFO	Listening on 127.0.0.1:53629
+1530694967742	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530694971275	Marionette	INFO	Listening on port 35559
+1530694971356	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530694975148	geckodriver	INFO	geckodriver 0.18.0
+1530694975153	geckodriver	INFO	Listening on 127.0.0.1:35931
+1530694976287	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530694979691	Marionette	INFO	Listening on port 45413
+1530694979715	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.cfilt.iitb.ac.in/indowordnet/newjavascript.js, line 14: TypeError: arg1 is undefined
+1530694983224	geckodriver	INFO	geckodriver 0.18.0
+1530694983229	geckodriver	INFO	Listening on 127.0.0.1:37783
+1530694984377	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530694987908	Marionette	INFO	Listening on port 39335
+1530694988000	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530694990828	geckodriver	INFO	geckodriver 0.18.0
+1530694990833	geckodriver	INFO	Listening on 127.0.0.1:57967
+1530694991964	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530694995473	Marionette	INFO	Listening on port 43053
+1530694995495	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530694999099	geckodriver	INFO	geckodriver 0.18.0
+1530694999104	geckodriver	INFO	Listening on 127.0.0.1:60357
+1530695000260	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530695003535	Marionette	INFO	Listening on port 44589
+1530695003579	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530695007703	geckodriver	INFO	geckodriver 0.18.0
+1530695007708	geckodriver	INFO	Listening on 127.0.0.1:49225
+1530695008843	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530695012407	Marionette	INFO	Listening on port 45663
+1530695012467	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.cfilt.iitb.ac.in/indowordnet/newjavascript.js, line 14: TypeError: arg1 is undefined
+1530695016252	geckodriver	INFO	geckodriver 0.18.0
+1530695016257	geckodriver	INFO	Listening on 127.0.0.1:36987
+1530695017394	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530695020692	Marionette	INFO	Listening on port 42385
+1530695020720	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530695023281	geckodriver	INFO	geckodriver 0.18.0
+1530695023288	geckodriver	INFO	Listening on 127.0.0.1:60693
+1530695024423	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530695027727	Marionette	INFO	Listening on port 38413
+1530695027747	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530695032104	geckodriver	INFO	geckodriver 0.18.0
+1530695032109	geckodriver	INFO	Listening on 127.0.0.1:55723
+1530695033238	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530695036407	Marionette	INFO	Listening on port 39593
+1530695036453	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530695041712	geckodriver	INFO	geckodriver 0.18.0
+1530695041717	geckodriver	INFO	Listening on 127.0.0.1:50611
+1530695042833	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530695046084	Marionette	INFO	Listening on port 43859
+1530695046148	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530695051201	geckodriver	INFO	geckodriver 0.18.0
+1530695051206	geckodriver	INFO	Listening on 127.0.0.1:58931
+1530695052334	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530695055579	Marionette	INFO	Listening on port 45317
+1530695055650	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530695060135	geckodriver	INFO	geckodriver 0.18.0
+1530695060139	geckodriver	INFO	Listening on 127.0.0.1:34383
+1530695061251	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530695064504	Marionette	INFO	Listening on port 40511
+1530695064564	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530695068156	geckodriver	INFO	geckodriver 0.18.0
+1530695068161	geckodriver	INFO	Listening on 127.0.0.1:36993
+1530695069287	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530695073020	Marionette	INFO	Listening on port 36077
+1530695073103	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530695076619	geckodriver	INFO	geckodriver 0.18.0
+1530695076625	geckodriver	INFO	Listening on 127.0.0.1:51455
+1530695077762	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530695081434	Marionette	INFO	Listening on port 32793
+1530695081483	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.cfilt.iitb.ac.in/indowordnet/newjavascript.js, line 14: TypeError: arg1 is undefined
+1530695085683	geckodriver	INFO	geckodriver 0.18.0
+1530695085686	geckodriver	INFO	Listening on 127.0.0.1:54065
+1530695086819	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530695090448	Marionette	INFO	Listening on port 39539
+1530695090537	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530695093769	geckodriver	INFO	geckodriver 0.18.0
+1530695093774	geckodriver	INFO	Listening on 127.0.0.1:46873
+1530695094908	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530695098228	Marionette	INFO	Listening on port 35877
+1530695098321	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530695101697	geckodriver	INFO	geckodriver 0.18.0
+1530695101703	geckodriver	INFO	Listening on 127.0.0.1:47955
+1530695102830	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530695106434	Marionette	INFO	Listening on port 45525
+1530695106458	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530695110516	geckodriver	INFO	geckodriver 0.18.0
+1530695110521	geckodriver	INFO	Listening on 127.0.0.1:56845
+1530695111657	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530695115342	Marionette	INFO	Listening on port 34481
+1530695115375	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.cfilt.iitb.ac.in/indowordnet/newjavascript.js, line 14: TypeError: arg1 is undefined
+1530695119031	geckodriver	INFO	geckodriver 0.18.0
+1530695119036	geckodriver	INFO	Listening on 127.0.0.1:50751
+1530695120149	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530695123759	Marionette	INFO	Listening on port 37107
+1530695123775	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530695126371	geckodriver	INFO	geckodriver 0.18.0
+1530695126376	geckodriver	INFO	Listening on 127.0.0.1:35627
+1530695127506	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530695130909	Marionette	INFO	Listening on port 40073
+1530695130924	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.cfilt.iitb.ac.in/indowordnet/newjavascript.js, line 14: TypeError: arg1 is undefined
+1530695623523	geckodriver	INFO	geckodriver 0.18.0
+1530695623528	geckodriver	INFO	Listening on 127.0.0.1:57687
+1530695624659	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530695628139	Marionette	INFO	Listening on port 45879
+1530695628177	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.cfilt.iitb.ac.in/indowordnet/newjavascript.js, line 14: TypeError: arg1 is undefined
+1530695631130	geckodriver	INFO	geckodriver 0.18.0
+1530695631135	geckodriver	INFO	Listening on 127.0.0.1:37795
+1530695632300	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530695635691	Marionette	INFO	Listening on port 34817
+1530695635716	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.cfilt.iitb.ac.in/indowordnet/newjavascript.js, line 14: TypeError: arg1 is undefined
+1530695639744	geckodriver	INFO	geckodriver 0.18.0
+1530695639749	geckodriver	INFO	Listening on 127.0.0.1:58817
+1530695640885	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530695644190	Marionette	INFO	Listening on port 40521
+1530695644204	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530695648507	geckodriver	INFO	geckodriver 0.18.0
+1530695648512	geckodriver	INFO	Listening on 127.0.0.1:51139
+1530695649651	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530695652912	Marionette	INFO	Listening on port 34605
+1530695652970	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 18872, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-m9FtQy/firefox-60.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1530695656045	geckodriver	INFO	geckodriver 0.18.0
+1530695656050	geckodriver	INFO	Listening on 127.0.0.1:35047
+1530695657190	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530695660353	Marionette	INFO	Listening on port 35163
+1530695660411	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 19021, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-m9FtQy/firefox-60.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1530695667380	geckodriver	INFO	geckodriver 0.18.0
+1530695667385	geckodriver	INFO	Listening on 127.0.0.1:53643
+1530695668524	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530695672020	Marionette	INFO	Listening on port 38745
+1530695672044	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530695675848	geckodriver	INFO	geckodriver 0.18.0
+1530695675853	geckodriver	INFO	Listening on 127.0.0.1:51049
+1530695677013	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530695680172	Marionette	INFO	Listening on port 42649
+1530695680230	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530695685513	geckodriver	INFO	geckodriver 0.18.0
+1530695685517	geckodriver	INFO	Listening on 127.0.0.1:42415
+1530695686655	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530695689907	Marionette	INFO	Listening on port 41491
+1530695689972	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530695696070	geckodriver	INFO	geckodriver 0.18.0
+1530695696075	geckodriver	INFO	Listening on 127.0.0.1:46351
+1530695697209	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530695700560	Marionette	INFO	Listening on port 36393
+1530695700623	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530695707911	geckodriver	INFO	geckodriver 0.18.0
+1530695707918	geckodriver	INFO	Listening on 127.0.0.1:47787
+1530695709053	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530695712390	Marionette	INFO	Listening on port 35339
+1530695712467	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530695717399	geckodriver	INFO	geckodriver 0.18.0
+1530695717404	geckodriver	INFO	Listening on 127.0.0.1:57597
+1530695718540	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530695721928	Marionette	INFO	Listening on port 36461
+1530695721957	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530695732054	geckodriver	INFO	geckodriver 0.18.0
+1530695732061	geckodriver	INFO	Listening on 127.0.0.1:41361
+1530695733191	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530695736425	Marionette	INFO	Listening on port 36889
+1530695736505	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530695745819	geckodriver	INFO	geckodriver 0.18.0
+1530695745824	geckodriver	INFO	Listening on 127.0.0.1:55221
+1530695746959	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530695750463	Marionette	INFO	Listening on port 36575
+1530695750488	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530695755970	geckodriver	INFO	geckodriver 0.18.0
+1530695755978	geckodriver	INFO	Listening on 127.0.0.1:43679
+1530695757109	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530695760403	Marionette	INFO	Listening on port 41555
+1530695760427	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530695771731	geckodriver	INFO	geckodriver 0.18.0
+1530695771736	geckodriver	INFO	Listening on 127.0.0.1:37715
+1530695772866	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530695776158	Marionette	INFO	Listening on port 38967
+1530695776190	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530695783612	geckodriver	INFO	geckodriver 0.18.0
+1530695783617	geckodriver	INFO	Listening on 127.0.0.1:42713
+1530695784766	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530695788095	Marionette	INFO	Listening on port 42507
+1530695788190	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530695807364	geckodriver	INFO	geckodriver 0.18.0
+1530695807369	geckodriver	INFO	Listening on 127.0.0.1:46205
+1530695808499	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530695811943	Marionette	INFO	Listening on port 42757
+1530695812013	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530695817804	geckodriver	INFO	geckodriver 0.18.0
+1530695817812	geckodriver	INFO	Listening on 127.0.0.1:58859
+1530695818941	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530695822309	Marionette	INFO	Listening on port 41429
+1530695822361	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530695829114	geckodriver	INFO	geckodriver 0.18.0
+1530695829120	geckodriver	INFO	Listening on 127.0.0.1:57329
+1530695830262	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530695833343	Marionette	INFO	Listening on port 37445
+1530695833382	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530695841315	geckodriver	INFO	geckodriver 0.18.0
+1530695841320	geckodriver	INFO	Listening on 127.0.0.1:56835
+1530695842458	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530695845659	Marionette	INFO	Listening on port 40157
+1530695845676	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530695859701	geckodriver	INFO	geckodriver 0.18.0
+1530695859706	geckodriver	INFO	Listening on 127.0.0.1:53179
+1530695860868	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530695864175	Marionette	INFO	Listening on port 36715
+1530695864186	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530695870318	geckodriver	INFO	geckodriver 0.18.0
+1530695870323	geckodriver	INFO	Listening on 127.0.0.1:43393
+1530695871452	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530695874868	Marionette	INFO	Listening on port 40795
+1530695874968	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530695881281	geckodriver	INFO	geckodriver 0.18.0
+1530695881286	geckodriver	INFO	Listening on 127.0.0.1:42807
+1530695882418	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530695885575	Marionette	INFO	Listening on port 42789
+1530695885633	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.cfilt.iitb.ac.in/indowordnet/newjavascript.js, line 14: TypeError: arg1 is undefined
+1530695892763	geckodriver	INFO	geckodriver 0.18.0
+1530695892767	geckodriver	INFO	Listening on 127.0.0.1:41167
+1530695893902	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530695897184	Marionette	INFO	Listening on port 38021
+1530695897217	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530695901252	geckodriver	INFO	geckodriver 0.18.0
+1530695901257	geckodriver	INFO	Listening on 127.0.0.1:48727
+1530695902402	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530695905636	Marionette	INFO	Listening on port 40197
+1530695905731	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.cfilt.iitb.ac.in/indowordnet/newjavascript.js, line 14: TypeError: arg1 is undefined
+1530695953973	geckodriver	INFO	geckodriver 0.18.0
+1530695953977	geckodriver	INFO	Listening on 127.0.0.1:38211
+1530695955090	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530695958329	Marionette	INFO	Listening on port 33217
+1530695958403	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.cfilt.iitb.ac.in/indowordnet/newjavascript.js, line 14: TypeError: arg1 is undefined
+1530695962534	geckodriver	INFO	geckodriver 0.18.0
+1530695962539	geckodriver	INFO	Listening on 127.0.0.1:42989
+1530695963676	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530695966828	Marionette	INFO	Listening on port 34917
+1530695966889	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.cfilt.iitb.ac.in/indowordnet/newjavascript.js, line 14: TypeError: arg1 is undefined
+1530695975227	geckodriver	INFO	geckodriver 0.18.0
+1530695975232	geckodriver	INFO	Listening on 127.0.0.1:55351
+1530695976383	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530695979670	Marionette	INFO	Listening on port 41413
+1530695979706	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530695984593	geckodriver	INFO	geckodriver 0.18.0
+1530695984598	geckodriver	INFO	Listening on 127.0.0.1:48565
+1530695985726	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530695989126	Marionette	INFO	Listening on port 42375
+1530695989147	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530695994163	geckodriver	INFO	geckodriver 0.18.0
+1530695994168	geckodriver	INFO	Listening on 127.0.0.1:46555
+1530695995324	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1530695998547	Marionette	INFO	Listening on port 42803
+1530695998640	Marionette	WARN	TLS certificate errors will be ignored for this session
