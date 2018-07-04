@@ -55,7 +55,7 @@ if(conn):
    rows=select_all_tasks(conn)
    #print(scrap_word_syn("നിഘണ്ടു"))
    fin=[]
-   no=0
+   no=0  #currently the no of words is limited to 3 you can remove this condition for all words
    for row in rows:
          st=str(row[0])
          #print(st,"\n")
