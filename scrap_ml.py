@@ -7,7 +7,7 @@ import unicodedata
 import os
 import csv
 def add_to_csv(l):
-   with open("test.csv","w") as fp:
+   with open("test.csv","a") as fp:
       a=csv.writer(fp,delimiter=',')
       a.writerows(l)
 
@@ -55,24 +55,29 @@ if(conn):
    rows=select_all_tasks(conn)
    #print(scrap_word_syn("നിഘണ്ടു"))
    fin=[]
-   no=0  #currently the no of words is limited to 3 you can remove this condition for all words
+   no=0      #currently the no of words is limited to 3 you can remove this condition for all words
+   tot=0
    for row in rows:
          st=str(row[0])
          #print(st,"\n")
          q=st.split()
-         if(no>=3):
-            break
+         if(tot>=6):
+              break
          for i in q:
                k=scrap_word_syn(i)
                if(k!=-1):
                   k.insert(0,i)
                   fin.append(k)
-                  no=no+1
+                  add_to_csv(fin)
+                  fin = []
+                  #no=no+1
+                  tot+=1
+                  print(tot)
                   #print(i, ":")
                   #print(k)
                else:
                   continue
 
-   add_to_csv(fin)
+
 
 
