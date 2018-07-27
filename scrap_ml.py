@@ -6,8 +6,20 @@ from sqlite3 import Error
 import unicodedata
 import os
 import csv
+def inc_count(count):
+    with open("count.txt","w") as fp:
+        fp.write(str(count))
+    fp.close()
+
+def get_last_count():
+    with open("count.txt","r")as fp:
+        count=int(fp.read())
+    fp.close()
+    return count
+
+
 def add_to_csv(l):
-   with open("test.csv","a") as fp:
+   with open("test2.csv","a") as fp:
       a=csv.writer(fp,delimiter=',')
       a.writerows(l)
 
@@ -47,7 +59,8 @@ def select_all_tasks(conn):
    Query all rows in the tasks table
    """
    cur = conn.cursor()
-   cur.execute("SELECT word FROM words_ml")
+   count=get_last_count()
+   cur.execute("SELECT word FROM words_ml where _id>"+str(count))
    rows = cur.fetchall()
    return rows
 conn=create_connection("enml.db")
@@ -55,7 +68,7 @@ if(conn):
    rows=select_all_tasks(conn)
    #print(scrap_word_syn("നിഘണ്ടു"))
    fin=[]
-   no=0      #currently the no of words is limited to 3 you can remove this condition for all words
+   c=get_last_count()      #currently the no of words is limited to 3 you can remove this condition for all words
    tot=0
    for row in rows:
          st=str(row[0])
@@ -77,6 +90,9 @@ if(conn):
                   #print(k)
                else:
                   continue
+         c+=1
+         inc_count(c)
+
 
 
 
